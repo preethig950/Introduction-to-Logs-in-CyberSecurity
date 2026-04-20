@@ -7,10 +7,10 @@ Have you ever wondered how systems “remember” what happened inside them?
 
 Every time you:
 
-log into your laptop 💻
-connect to WiFi 📶
-open an application 📱
-or even enter a wrong password 🔑
+- log into your laptop 💻
+- connect to WiFi 📶
+- open an application 📱
+- even enter a wrong password 🔑
 
 👉 something quietly records that activity behind the scenes.
 
@@ -27,8 +27,8 @@ when it happened
 and where it came from
 
 Think of logs like:
-👉 CCTV footage for your systems
-👉 or a diary that never forgets anything
+- 👉 CCTV footage for your systems
+- 👉 or a diary that never forgets anything
 
 # Logs in your daily life (yes, you already use them!)
 
@@ -36,13 +36,13 @@ Even if you’re not a cybersecurity engineer, you interact with logs every day 
 
 Here are some real-life examples:
 
-🔐 When you enter the wrong password → a failed login log is created
-📧 When you send an email → a mail server log records it
-🛒 When you shop online → an application log tracks your activity
-📱 When your app crashes → an error log is generated
-🌐 When you browse websites → network logs capture requests
+- 🔐 When you enter the wrong password → a failed login log is created
+- 📧 When you send an email → a mail server log records it
+- 🛒 When you shop online → an application log tracks your activity
+- 📱 When your app crashes → an error log is generated
+- 🌐 When you browse websites → network logs capture requests
 
-👉 All of these help systems track, monitor, and troubleshoot activity
+- 👉 All of these help systems track, monitor, and troubleshoot activity
 
 
 # Why are logs important in cybersecurity?
