@@ -1,1 +1,39 @@
+# Introduction
+Imagine you are responsible for securing an entire organization. Hundreds of employees are working, systems are running, applications are processing data, and users are logging in and out.
+
+Now here’s a question:
+
+### 👉 How do you know if something suspicious is happening?
+
+- You can’t watch every system manually.
+- You can’t track every user action yourself.
+
+This is where log monitoring becomes your eyes and ears.
+# What Are Logs?
+Logs are simply records of events happening inside a system.
+
+Every action creates a log:
+
+- User logs in
+- File is accessed
+- Application crashes
+- Firewall blocks traffic
+
+👉 Think of logs as a diary of system activities
+# Why Do We Need to Monitor Logs?
+Collecting logs is not enough.
+👉 If no one is monitoring them, they are just unused data.
+
+Let’s understand why monitoring logs is critical.
+## 1. To Detect Security Threats Early
+Hackers don’t announce themselves—they leave clues in logs.
+
+Examples:
+
+- Multiple failed login attempts → brute force attack
+- Login from unknown country → possible compromise
+- Sudden spike in traffic → DDoS attempt
+
+👉 By monitoring logs, we can detect attacks in real time and stop them early.
+
 
